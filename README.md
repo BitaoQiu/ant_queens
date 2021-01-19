@@ -1,5 +1,5 @@
 # ant_queens
-This is the depository for the ant gyne-queen reproductive transition project.
+This is the depository for the ant gyne-queen reproductive transition projects.
 
 Brain transcriptomic study for gyne-queen transition:
 https://advances.sciencemag.org/content/6/38/eaaz5772
